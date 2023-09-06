@@ -1,0 +1,14 @@
+\\SERVER-DC1\dfs\Студенты\ИП-1\Владислав Чирков\CLIENT-SERVER V2\Client v2\Client v2\bin\Debug\Client v2.exe.config
+\\SERVER-DC1\dfs\Студенты\ИП-1\Владислав Чирков\CLIENT-SERVER V2\Client v2\Client v2\bin\Debug\Client v2.exe
+\\SERVER-DC1\dfs\Студенты\ИП-1\Владислав Чирков\CLIENT-SERVER V2\Client v2\Client v2\bin\Debug\Client v2.pdb
+\\SERVER-DC1\dfs\Студенты\ИП-1\Владислав Чирков\CLIENT-SERVER V2\Client v2\Client v2\obj\Debug\Client v2.csprojResolveAssemblyReference.cache
+\\SERVER-DC1\dfs\Студенты\ИП-1\Владислав Чирков\CLIENT-SERVER V2\Client v2\Client v2\obj\Debug\Client v2.exe
+\\SERVER-DC1\dfs\Студенты\ИП-1\Владислав Чирков\CLIENT-SERVER V2\Client v2\Client v2\obj\Debug\Client v2.pdb
+D:\Codding\C#\4. CLIENT-SERVER\Client v2\Client v2\bin\Debug\Client v2.exe.config
+D:\Codding\C#\4. CLIENT-SERVER\Client v2\Client v2\bin\Debug\Client v2.exe
+D:\Codding\C#\4. CLIENT-SERVER\Client v2\Client v2\bin\Debug\Client v2.pdb
+D:\Codding\C#\4. CLIENT-SERVER\Client v2\Client v2\obj\Debug\Client v2.csproj.AssemblyReference.cache
+D:\Codding\C#\4. CLIENT-SERVER\Client v2\Client v2\obj\Debug\Client v2.csproj.SuggestedBindingRedirects.cache
+D:\Codding\C#\4. CLIENT-SERVER\Client v2\Client v2\obj\Debug\Client v2.csproj.CoreCompileInputs.cache
+D:\Codding\C#\4. CLIENT-SERVER\Client v2\Client v2\obj\Debug\Client v2.exe
+D:\Codding\C#\4. CLIENT-SERVER\Client v2\Client v2\obj\Debug\Client v2.pdb
